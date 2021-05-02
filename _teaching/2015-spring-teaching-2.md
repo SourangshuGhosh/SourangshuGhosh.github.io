@@ -8,7 +8,7 @@ date: 2020-01-02
 location: "Kharagpur, India"
 ---
 
-Teacher Assistant in the course of Stochastic Structural Dynamics.
+Teacher Assistant in the course of Structural Reliability.
 
 Syllabus
 ======
