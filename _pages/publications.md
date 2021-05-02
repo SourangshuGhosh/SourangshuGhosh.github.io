@@ -13,7 +13,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 {% include base_path %}
 
 [Generalizing Halbeisen's and Hungerbühler's optimal bounds for the length of Collatz cycles to 3n+c cycles](https://www.isr-publications.com/jmcs/articles-9736-generalizing-halbeisens-andhungerbuhlers-optimal-bounds-for-the-length-of-collatz-cycles-to-boldsymbol3nc-cycles)
-(Journal of Mathematics and Computer Science, Volume 24(4),(2021) pp 330-337) 
+(Journal of Mathematics and Computer Science, Volume 24(4),(2021) pp 330-337) \
 Darell Cox, **Sourangshu Ghosh** , Eldar Sultanow
 
 [On primes which are congruent numbers](https://arxiv.org/abs/2102.04857)
