@@ -8,7 +8,7 @@ date: 2021-01-02
 location: "Kharagpur, India"
 ---
 
-Teacher Assistant in the course of Structural Reliability.
+Teacher Assistant in the course of Finite Element Analysis.
 
 Syllabus
 ======
