@@ -25,7 +25,7 @@ Jorma Jormakka\*, **Sourangshu Ghosh**\*
 Darell Cox\*, **Sourangshu Ghosh**\* , Eldar Sultanow
 
 [Sequences and Polynomial Congruences](https://www.ripublication.com/adsa21/v16n1p03.pdf)
-(dvances in Dynamical Systems and Applications.  Vol 16(1), (2021) pp. 17-33)  
+(Advances in Dynamical Systems and Applications.  Vol 16(1), (2021) pp. 17-33)  
 Darell Cox\*, **Sourangshu Ghosh**\* , Eldar Sultanow
 
 [On the Irrationality and Transcendence of Rational Powers of e](https://www.journalarjom.com/index.php/ARJOM/article/view/30277)
