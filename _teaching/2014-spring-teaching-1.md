@@ -8,13 +8,6 @@ date: 2021-01-02
 location: "Kharagpur, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The objective of this course was to develop methods for analysis of structures subjected to dynamic loads which are random in nature. Structures under the action of wind or earthquake loads are typical of such problems. The course introduces the application of probability, random variables and random processes to model uncertainties in dynamic loads.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The response analysis considers question of propagation of uncertainties in the inputs to the response variables of interest and also considers questions on reliability of vibrating systems under dynamic loads. The course mainly deals with linear time invariant systems. A brief introduction to random vibration analysis of nonlinear systems is also provided. Solution strategies include analytical techniques and Monte Carlo simulation procedures.
