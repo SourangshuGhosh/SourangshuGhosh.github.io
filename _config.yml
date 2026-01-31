@@ -1,0 +1,7 @@
+title: Foundations of Deep Learning and AI
+description: A rigorous, encyclopedic reference on the mathematical foundations of Deep Learning and Artificial Intelligence, organized as interlinked concept pages with precise definitions, formulations, and limitations.
+theme: null
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+permalink: pretty
